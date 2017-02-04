@@ -1,11 +1,11 @@
 # Movsesyan Anush
 #### Developer
 
-(+374 77 32 18 64)
+:phone: (+374 77 32 18 64)
 
-(Email)[movsesyan.anush@gmail.com]
+:email: movsesyan.anush@gmail.com
 
-(github account)[https://github.com/AnushMv]
+(GitHub account)[https://github.com/AnushMv]
 
 
 ## COURSES
