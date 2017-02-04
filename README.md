@@ -11,7 +11,7 @@
 ## COURSES
 :heavy_check_mark: December	2016 - January2017: Betconstruct Intershipprogram, MicrosoftInnovation Center (C#, .NetFramework)
 
-:white_check_mark: November 2016: C#,Level 1, MicrosoftInnovation Center
+:black_small_square: November 2016: C#,Level 1, MicrosoftInnovation Center
 
 ## TECHNICAL SKILL
 #### C#	6.0 /.NET Framework 4.6
