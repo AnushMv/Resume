@@ -2,8 +2,10 @@
 #### Developer
 
 (+374 77 32 18 64)
-movsesyan.anush@gmail.com
-https://github.com/AnushMv
+
+(Email)[movsesyan.anush@gmail.com]
+
+(github account)[https://github.com/AnushMv]
 
 
 ## COURSES
