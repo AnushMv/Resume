@@ -12,12 +12,12 @@ https://github.com/AnushMv
 
 ## TECHNICAL SKILL
 #### C#	6.0 /.NET Framework 4.6
-MS Visual Studio
-OOP
-Windows (7)
-GitHub
-Wolfram Mathematica
-ORIGIN (Graphing & Analysis)
+* MS Visual Studio
+* OOP
+* Windows (7)
+* GitHub
+* Wolfram Mathematica
+* ORIGIN (Graphing & Analysis)
 
 ## LANGUAGES
 Armenian	Russian  English
