@@ -15,8 +15,10 @@
 
 ## TECHNICAL SKILL
 #### C#	6.0 /.NET Framework 4.6
-:black_small_square: MS Visual Studio
+:black_small_square: MS Visual Studio 
+
 :black_small_square: OOP
+
 :black_small_square: Windows (7)
 :black_small_square: GitHub
 :black_small_square: Wolfram Mathematica
