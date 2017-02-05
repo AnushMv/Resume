@@ -13,13 +13,12 @@
 -  November 2016: C#,Level 1, MicrosoftInnovation Center
 
 ## TECHNICAL SKILL
-#### C#	6.0 /.NET Framework 4.6
-- : MS Visual Studio 
+-  C#	6.0 /.NET Framework 4.6
+-  MS Visual Studio 
 -  OOP
--  Windows (7)
--  GitHub
+-  Git
 -  Wolfram Mathematica
-- ORIGIN (Graphing & Analysis)
+
 
 ## LANGUAGES
 -  Armenian	
