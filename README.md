@@ -8,7 +8,7 @@
 (GitHub account)[https://github.com/AnushMv]
 
 
-## COURSES
+### COURSES
 -  December	2016 - January2017: Betconstruct Intershipprogram, MicrosoftInnovation Center (C#, .NetFramework)
 -  November 2016: C#,Level 1, MicrosoftInnovation Center
 
